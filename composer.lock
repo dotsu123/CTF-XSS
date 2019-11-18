@@ -14,8 +14,9 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "5.6.39",
-        "ext-mysql": "*",
+        "php": "7.3.11",
+        "ext-pdo": "*",
+        "ext-pdo_mysql": "*",
         "ext-mbstring": "*"
     },
     "platform-dev": []
