@@ -1,6 +1,7 @@
 {
   "require": {
-    "ext-mysql": "*",
+    "ext-pdo": "*",
+    "ext-pdo_mysql": "*"
     "ext-mbstring":"*"
   }
 }
