@@ -15,8 +15,8 @@
     "prefer-lowest": false,
     "platform": {
         "php": "7.2.13",
-        "mysql": "*",
-        "mbstring": "*"
+        "ext-mysqli": "*",
+        "ext-mbstring": "*"
     },
     "platform-dev": []
 }
